@@ -17,4 +17,6 @@
 
 完成第二章 10/10/24 Completed Chapter 2 10/10/24
 
-完成第三章 10/10/24 Completed Chapter 3 13/10/24
+完成第三章 13/10/24 Completed Chapter 3 13/10/24
+
+完成第四章 16/10/24 Completed Chapter 4 16/10/24
