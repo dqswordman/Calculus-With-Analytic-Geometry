@@ -20,3 +20,6 @@
 完成第三章 13/10/24 Completed Chapter 3 13/10/24
 
 完成第四章 16/10/24 Completed Chapter 4 16/10/24
+
+完成第五章 20/12/24 Completed Chapter 5 20/12/24
+  对生成笔记风格，内容进行了完全的优化 The generated note style and content details are fully optimized 20/12/24
