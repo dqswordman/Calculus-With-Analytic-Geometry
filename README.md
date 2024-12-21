@@ -28,3 +28,5 @@
 完成第六章 21/12/24 Completed Chapter 6 21/12/24
 
 完成第七章 21/12/24 Completed Chapter 7 21/12/24
+
+完成第八章 21/12/24 Completed Chapter 8 21/12/24
