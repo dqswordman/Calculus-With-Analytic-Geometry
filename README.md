@@ -30,3 +30,7 @@
 完成第七章 21/12/24 Completed Chapter 7 21/12/24
 
 完成第八章 21/12/24 Completed Chapter 8 21/12/24
+
+完成第九章 23/12/24 Completed Chapter 9 23/12/24
+
+完成第十章 25/12/24 Completed Chapter 10 25/12/24
