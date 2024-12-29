@@ -39,4 +39,6 @@
 
 完成第十二章 27/12/24 Completed Chapter 12 27/12/24
 
-完成第十三章 27/12/24 Completed Chapter 12 27/12/24
+完成第十三章 28/12/24 Completed Chapter 13 28/12/24
+
+完成第十四章 29/12/24 Completed Chapter 14 29/12/24
