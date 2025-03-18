@@ -48,3 +48,7 @@
 完成第十六章 10/3/25 Completed Chapter 16 10/3/25
 
 完成第十七章 10/3/25 Completed Chapter 17 10/3/25
+
+完成第十八章 10/3/25 Completed Chapter 18 18/3/25
+
+完成第十九章 10/3/25 Completed Chapter 19 18/3/25
